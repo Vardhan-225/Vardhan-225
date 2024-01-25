@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Akash Thanneeru.
+
+My hometown is Hyderabad, India. My interests are photography, keeping myself updated on the latest cyber attacks, playing chess.
+I am a Cybersecurity professional and am very actively researching the current Cybersecurity concerns to address the arising threat landscape.
+
+I have profiency in email security, network security, system information and event management, incident response and using various technologies to maintain the cybersecurity posture. I have worked for 3 major US government healthcare organisations.
+
+Reach me at my LinkedIn: https://www.linkedin.com/in/thevardhan/
 
 <!--
 **Vardhan-225/Vardhan-225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
